@@ -1,4 +1,4 @@
-# AR-App
+# AR-App "The Little Prince"
 Android-App AR "The Little Prince"
 
 Autor: Luisa Flaig
