@@ -22,7 +22,7 @@ The project was conceived during my academic studies with the aim of creating a 
 
 ## Usage
 
-Use inside toom to avoid problems with lightning
+Use inside a room to avoid problems with lightning
 
 
 
