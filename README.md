@@ -13,6 +13,7 @@ The project was conceived during my academic studies with the aim of creating a 
 ### Prerequisites
 
 - Unity on a Desktopcomputer
+- Smartphone with Android
 
 ### Installation
 
